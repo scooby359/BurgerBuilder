@@ -20,6 +20,10 @@
     ],
     "rules": {
         "linebreak-style": ["error", "windows"],
-        "require-jsdoc": "off"
+        "require-jsdoc": "off",
+        "no-invalid-this": "off",
+        "no-unused-vars": "warn",
+        "comma-dangle": "off",
+        "guard-for-in": "off"
     }
 }
