@@ -24,6 +24,7 @@
         "no-invalid-this": "off",
         "no-unused-vars": "warn",
         "comma-dangle": "off",
-        "guard-for-in": "off"
+        "guard-for-in": "off",
+        "react/prop-types": "off"
     }
 }
